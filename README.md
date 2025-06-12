@@ -8,5 +8,6 @@ Feature 2
 Feature A
 
 Feature B
+- My new fix
 
 Feature C
