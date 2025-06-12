@@ -11,3 +11,11 @@ Feature B
 - My new fix
 
 Feature C
+
+Feature D
+
+Feature E
+
+Feature F
+
+Feature G
