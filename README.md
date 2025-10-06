@@ -22,3 +22,4 @@ Feature G
 
 Feature H
     - H1
+    - H2
